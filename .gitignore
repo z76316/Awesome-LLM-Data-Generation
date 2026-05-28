@@ -3,6 +3,7 @@ workspace/
 
 # Claude artifacts
 .claude/
+CLAUDE.md
 
 # IDE and editor files
 .vscode/
